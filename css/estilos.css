@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: #99A6DE;
+}
+.menu{
+    background-color: #99A6DE;
+}
+.caja{
+    margin: 0 auto;
+    width: 50%;
+}
+.caja .bmw {
+    border-radius: 1em;
+    box-shadow: 0.0.0.5em rgba(0,0,0,0,8);
+}
+.table{
+    margin-top: 10%;
+}
